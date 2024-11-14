@@ -5,6 +5,7 @@ filelock==3.16.1
 pillow==11.0.0
 platformdirs==4.3.6
 psycopg2==2.9.10
+psycopg2-binary==2.9.10
 python-decouple==3.8
 sqlparse==0.5.1
 typing_extensions==4.12.2
